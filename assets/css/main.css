@@ -291,7 +291,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 1);
+		color: rgba(255, 255, 255, 075);
 		font-family: "Roboto", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -365,14 +365,14 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 1em.5 0 1em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 700;
 		line-height: 1em;
-		margin: 0 0 1em 0;
+		margin: 0.5em 0 1.5em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -478,7 +478,7 @@
 	header h2 + p {
 		font-size: 1.25em;
 		margin-top: -1em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	header h3 + p {
@@ -1015,8 +1015,8 @@
 	}
 
 	#header p {
-		font-size: 1.35em;
-		line-height: 1.65em;
+		font-size: 1.1em;
+		line-height: 0em;
 	}
 
 	#header a {
