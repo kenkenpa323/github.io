@@ -42,13 +42,11 @@
 							'images/1.png': 'center',
 							'images/2.png': 'center',
 							'images/3.png': 'center',
-							'images/4.png': 'center',
-							'images/5.png': 'center',
-							'images/6.png': 'center'
+							'images/4.png': 'center'
 						},
 
 					// Delay.
-						delay: 5000
+						delay: 6000
 
 				};
 
