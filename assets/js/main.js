@@ -41,7 +41,6 @@
 						images: {
 							'images/2.png': 'center',
 							'images/1.png': 'center',
-							'images/3.png': 'center',
 							'images/4.png': 'center'
 						},
 
